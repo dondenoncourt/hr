@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iXp/!svn/ver/22640/Daffron%20-%20HR/trunk/grails-app/views/reports
+END
+sampleWhereQuery.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/iXp/!svn/ver/22105/Daffron%20-%20HR/trunk/grails-app/views/reports/sampleWhereQuery.gsp
+END
+birthDate.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/iXp/!svn/ver/22613/Daffron%20-%20HR/trunk/grails-app/views/reports/birthDate.gsp
+END
+ozarks2.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/iXp/!svn/ver/21783/Daffron%20-%20HR/trunk/grails-app/views/reports/ozarks2.gsp
+END
+_overtimeTable.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/iXp/!svn/ver/22622/Daffron%20-%20HR/trunk/grails-app/views/reports/_overtimeTable.gsp
+END
+ozarks3.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/iXp/!svn/ver/21783/Daffron%20-%20HR/trunk/grails-app/views/reports/ozarks3.gsp
+END
+_hireDateListTable.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/iXp/!svn/ver/22622/Daffron%20-%20HR/trunk/grails-app/views/reports/_hireDateListTable.gsp
+END
+_appraisalScheduleTable.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/iXp/!svn/ver/22640/Daffron%20-%20HR/trunk/grails-app/views/reports/_appraisalScheduleTable.gsp
+END
+workforceAnalysis.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/iXp/!svn/ver/22384/Daffron%20-%20HR/trunk/grails-app/views/reports/workforceAnalysis.gsp
+END
+_workforceAnalysisTable.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/iXp/!svn/ver/22116/Daffron%20-%20HR/trunk/grails-app/views/reports/_workforceAnalysisTable.gsp
+END
+orgChart.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/iXp/!svn/ver/22617/Daffron%20-%20HR/trunk/grails-app/views/reports/orgChart.gsp
+END
+appraisalSchedule.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/iXp/!svn/ver/22384/Daffron%20-%20HR/trunk/grails-app/views/reports/appraisalSchedule.gsp
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/iXp/!svn/ver/21783/Daffron%20-%20HR/trunk/grails-app/views/reports/list.gsp
+END
+_ozarks3table.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/iXp/!svn/ver/20574/Daffron%20-%20HR/trunk/grails-app/views/reports/_ozarks3table.gsp
+END
+_ozarks2table.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/iXp/!svn/ver/20569/Daffron%20-%20HR/trunk/grails-app/views/reports/_ozarks2table.gsp
+END
+hoursWorked.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/iXp/!svn/ver/21783/Daffron%20-%20HR/trunk/grails-app/views/reports/hoursWorked.gsp
+END
+_birthDateTable.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/iXp/!svn/ver/22613/Daffron%20-%20HR/trunk/grails-app/views/reports/_birthDateTable.gsp
+END
+hireDateList.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/iXp/!svn/ver/22384/Daffron%20-%20HR/trunk/grails-app/views/reports/hireDateList.gsp
+END
+overtime.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/iXp/!svn/ver/22384/Daffron%20-%20HR/trunk/grails-app/views/reports/overtime.gsp
+END
+_workforceAnalysisByJobClassTable.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/iXp/!svn/ver/22105/Daffron%20-%20HR/trunk/grails-app/views/reports/_workforceAnalysisByJobClassTable.gsp
+END
+_yearsOfServiceTable.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/iXp/!svn/ver/20894/Daffron%20-%20HR/trunk/grails-app/views/reports/_yearsOfServiceTable.gsp
+END
+yearsOfService.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/iXp/!svn/ver/22384/Daffron%20-%20HR/trunk/grails-app/views/reports/yearsOfService.gsp
+END
+workforceAnalysisByJobClass.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/iXp/!svn/ver/22384/Daffron%20-%20HR/trunk/grails-app/views/reports/workforceAnalysisByJobClass.gsp
+END

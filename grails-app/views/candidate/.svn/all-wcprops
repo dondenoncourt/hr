@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/iXp/!svn/ver/23007/Daffron%20-%20HR/trunk/grails-app/views/candidate
+END
+_behaviorRows.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/iXp/!svn/ver/21846/Daffron%20-%20HR/trunk/grails-app/views/candidate/_behaviorRows.gsp
+END
+phoneIntv.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/iXp/!svn/ver/22134/Daffron%20-%20HR/trunk/grails-app/views/candidate/phoneIntv.gsp
+END
+_standardTestRows.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/iXp/!svn/ver/19761/Daffron%20-%20HR/trunk/grails-app/views/candidate/_standardTestRows.gsp
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/iXp/!svn/ver/22305/Daffron%20-%20HR/trunk/grails-app/views/candidate/list.gsp
+END
+contact.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/iXp/!svn/ver/22909/Daffron%20-%20HR/trunk/grails-app/views/candidate/contact.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/iXp/!svn/ver/21783/Daffron%20-%20HR/trunk/grails-app/views/candidate/show.gsp
+END
+testResults.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/iXp/!svn/ver/22934/Daffron%20-%20HR/trunk/grails-app/views/candidate/testResults.gsp
+END
+_topCandidates.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/iXp/!svn/ver/22934/Daffron%20-%20HR/trunk/grails-app/views/candidate/_topCandidates.gsp
+END
+postInterview.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/iXp/!svn/ver/22934/Daffron%20-%20HR/trunk/grails-app/views/candidate/postInterview.gsp
+END
+_precontactDates.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/iXp/!svn/ver/22909/Daffron%20-%20HR/trunk/grails-app/views/candidate/_precontactDates.gsp
+END
+filter.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/iXp/!svn/ver/23007/Daffron%20-%20HR/trunk/grails-app/views/candidate/filter.gsp
+END
+search.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/iXp/!svn/ver/22119/Daffron%20-%20HR/trunk/grails-app/views/candidate/search.gsp
+END
+prescreen.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/iXp/!svn/ver/22134/Daffron%20-%20HR/trunk/grails-app/views/candidate/prescreen.gsp
+END
+testCompare.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/iXp/!svn/ver/22326/Daffron%20-%20HR/trunk/grails-app/views/candidate/testCompare.gsp
+END

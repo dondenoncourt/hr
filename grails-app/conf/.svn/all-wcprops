@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/iXp/!svn/ver/23369/Daffron%20-%20HR/trunk/grails-app/conf
+END
+AppResources.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/iXp/!svn/ver/21834/Daffron%20-%20HR/trunk/grails-app/conf/AppResources.groovy
+END
+BootStrap.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/iXp/!svn/ver/20614/Daffron%20-%20HR/trunk/grails-app/conf/BootStrap.groovy
+END
+SecurityFilters.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/iXp/!svn/ver/22180/Daffron%20-%20HR/trunk/grails-app/conf/SecurityFilters.groovy
+END
+UrlMappings.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/iXp/!svn/ver/21687/Daffron%20-%20HR/trunk/grails-app/conf/UrlMappings.groovy
+END
+LoginFilters.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/iXp/!svn/ver/22600/Daffron%20-%20HR/trunk/grails-app/conf/LoginFilters.groovy
+END
+Config.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/iXp/!svn/ver/23546/Daffron%20-%20HR/trunk/grails-app/conf/Config.groovy
+END
+BuildConfig.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/iXp/!svn/ver/22667/Daffron%20-%20HR/trunk/grails-app/conf/BuildConfig.groovy
+END
+DataSource.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/iXp/!svn/ver/23546/Daffron%20-%20HR/trunk/grails-app/conf/DataSource.groovy
+END

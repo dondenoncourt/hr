@@ -1,0 +1,28 @@
+K 10
+svn:ignore
+V 559
+*_candidate_contactForTesting.png
+*_candidate_create.png
+*_candidate_filter.png
+*_candidate_list.png
+*_candidate_testCompare.png
+*_candidate_testResults.png
+*_jobDescription_diff.png
+*_requisition_edit.png
+*_candidate_*.png
+joe_candidate_filter.png
+joe_requisition_pickInterviewTeam.png
+Kevin_requisition_pickInterviewTeam.png
+Kevin_requisition_internalPosting.png
+*_requisition_personnelAction.png
+joe_candidate_list.png
+donat_*_*.png
+*_requisition_*.png
+*_requisition_show.png
+donat_*.png
+hr_*
+*_candidate_postInterview.png
+*pickInterviewTeam.png
+cfo_*.png
+
+END

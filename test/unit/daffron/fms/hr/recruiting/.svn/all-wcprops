@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/iXp/!svn/ver/22862/Daffron%20-%20HR/trunk/test/unit/daffron/fms/hr/recruiting
+END
+CompensationTeamControllerTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/iXp/!svn/ver/23655/Daffron%20-%20HR/trunk/test/unit/daffron/fms/hr/recruiting/CompensationTeamControllerTests.groovy
+END
+RecruitingTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/iXp/!svn/ver/21397/Daffron%20-%20HR/trunk/test/unit/daffron/fms/hr/recruiting/RecruitingTests.groovy
+END
+ApproveControllerTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/iXp/!svn/ver/23546/Daffron%20-%20HR/trunk/test/unit/daffron/fms/hr/recruiting/ApproveControllerTests.groovy
+END
+StatusTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/iXp/!svn/ver/22862/Daffron%20-%20HR/trunk/test/unit/daffron/fms/hr/recruiting/StatusTests.groovy
+END

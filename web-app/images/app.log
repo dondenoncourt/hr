@@ -1,0 +1,136 @@
+DEBUG ErrorController 15 Jun 23:35:32 404: /robots.txt
+DEBUG LocateController 15 Jun 23:35:32 action: bndsChanged params: [cLat:40.87236723440245, cLng:-73.60891395507814, division:patio, neLng:-73.05959754882815, swLat:40.63830605933771, neLat:41.10560386998542, itemId:2111, swLng:-74.15823036132815, action:bndsChanged, controller:locate] flash: [:] PRODUCTION
+DEBUG ErrorController 15 Jun 23:35:32 query string: null
+DEBUG LocateController 15 Jun 23:35:32 search radius: 20.0 miles
+DEBUG LocateController 15 Jun 23:35:32 has division: patio, class: java.lang.String
+DEBUG HomePageController 15 Jun 23:35:32 action: home params: [action:home, controller:homePage] flash: [:]
+DEBUG HomePageController 15 Jun 23:35:32 action: partsService params: [action:partsService, controller:homePage] flash: [:]
+DEBUG LocateController 15 Jun 23:35:32 found 82 dealers for division: patio
+DEBUG HomePageController 15 Jun 23:35:33 action: home params: [action:home, controller:homePage] flash: [:]
+DEBUG ShopController 15 Jun 23:35:33 action: cart params: [division:kettler usa, action:cart, controller:shop] flash: [:]
+DEBUG ShopController 15 Jun 23:35:33 action: detail params: [division:bikes, mode:canadac275.htm, id:3711, action:detail, controller:shop] flash: [:]
+DEBUG ShopController 15 Jun 23:35:33 action: detail params: [division:patio, mode:, id:4086, action:detail, controller:shop] flash: [:]
+DEBUG ShopController 15 Jun 23:35:33 after action: cart params: [division:kettler usa, action:cart, controller:shop]
+DEBUG ShopController 15 Jun 23:35:34 after action: detail params: [division:patio, mode:, id:4086, action:detail, controller:shop]
+DEBUG ErrorController 15 Jun 23:35:34 404: /toymanuals/surfer.pdf
+DEBUG ErrorController 15 Jun 23:35:34 query string: null
+DEBUG ShopController 15 Jun 23:35:34 after action: detail params: [division:bikes, mode:canadac275.htm, id:3711, action:detail, controller:shop]
+DEBUG ShopController 15 Jun 23:35:35 action: detail params: [mode:canadac275.htm%3Fmode%3Dcanadac275.htm, id:2643, category:indoor, division:table tennis, action:detail, controller:shop] flash: [:]
+DEBUG ShopController 15 Jun 23:35:35 after action: detail params: [mode:canadac275.htm%3Fmode%3Dcanadac275.htm, id:2643, category:indoor, division:table tennis, action:detail, controller:shop]
+DEBUG ErrorController 15 Jun 23:35:42 404: /css/images/ui-bg_glass_65_ffffff_1x400.png
+DEBUG ErrorController 15 Jun 23:35:42 query string: null
+DEBUG ShopController 15 Jun 23:35:42 action: largerImage params: [id:2664, otherImageName:7176-500, action:largerImage, controller:shop] flash: [message:The page you requested was not found]
+DEBUG ErrorController 15 Jun 23:35:42 404: /css/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+DEBUG ErrorController 15 Jun 23:35:42 query string: null
+DEBUG ErrorController 15 Jun 23:35:42 404: /css/images/ui-bg_flat_75_ffffff_40x100.png
+DEBUG ErrorController 15 Jun 23:35:42 query string: null
+DEBUG ErrorController 15 Jun 23:35:42 404: /css/images/ui-bg_glass_75_e6e6e6_1x400.png
+DEBUG ErrorController 15 Jun 23:35:42 query string: null
+DEBUG ShopController 15 Jun 23:35:42 after action: largerImage params: [id:2664, otherImageName:7176-500, action:largerImage, controller:shop]
+DEBUG ShopController 15 Jun 23:36:02 action: buy params: [division:table tennis, ajax:true, quantity:1, id:2683, action:buy, controller:shop] flash: [:]
+DEBUG ShopController 15 Jun 23:36:03 after action: buy params: [division:table tennis, ajax:true, quantity:1, id:2683, action:buy, controller:shop]
+DEBUG ShopController 15 Jun 23:36:04 action: accessories params: [id:2664, division:table tennis, mode:, action:accessories, controller:shop] flash: [:]
+DEBUG ErrorController 15 Jun 23:36:04 404: /css/images/ui-bg_glass_75_dadada_1x400.png
+DEBUG ErrorController 15 Jun 23:36:04 query string: null
+ERROR ShopController 15 Jun 23:36:04 ItemMasterExt.get(2664) returned null
+DEBUG ShopController 15 Jun 23:36:04 after action: accessories params: [id:2664, division:table tennis, mode:, action:accessories, controller:shop]
+DEBUG HomePageController 15 Jun 23:36:05 action: home params: [action:home, controller:homePage] flash: [:]
+DEBUG ShopController 15 Jun 23:36:07 action: accessories params: [id:2664, division:table tennis, mode:, action:accessories, controller:shop] flash: [:]
+ERROR ShopController 15 Jun 23:36:07 ItemMasterExt.get(2664) returned null
+DEBUG ShopController 15 Jun 23:36:07 after action: accessories params: [id:2664, division:table tennis, mode:, action:accessories, controller:shop]
+DEBUG ShopController 15 Jun 23:36:13 action: largerImage params: [id:3957, otherImageName:7937-500, action:largerImage, controller:shop] flash: [:]
+DEBUG ShopController 15 Jun 23:36:13 after action: largerImage params: [id:3957, otherImageName:7937-500, action:largerImage, controller:shop]
+DEBUG ShopController 15 Jun 23:36:19 action: detail params: [id:2695, category:accessories, division:table tennis, action:detail, controller:shop] flash: [:]
+DEBUG ShopController 15 Jun 23:36:19 after action: detail params: [id:2695, category:accessories, division:table tennis, action:detail, controller:shop]
+DEBUG ShopController 15 Jun 23:36:23 action: detail params: [mode:canadaalurad.pdf?mode=canadaalurad.pdf, id:1984, category:pedal-vehicles, division:toys, action:detail, controller:shop] flash: [:]
+DEBUG ShopController 15 Jun 23:36:23 after action: detail params: [mode:canadaalurad.pdf?mode=canadaalurad.pdf, id:1984, category:pedal-vehicles, division:toys, action:detail, controller:shop]
+DEBUG ShopController 15 Jun 23:36:25 action: largerImage params: [id:2695, otherImageName:7588-000, action:largerImage, controller:shop] flash: [:]
+DEBUG ErrorController 15 Jun 23:36:25 404: /css/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+DEBUG ErrorController 15 Jun 23:36:25 query string: null
+DEBUG ErrorController 15 Jun 23:36:25 404: /css/images/ui-bg_glass_65_ffffff_1x400.png
+DEBUG ErrorController 15 Jun 23:36:25 query string: null
+DEBUG ErrorController 15 Jun 23:36:25 404: /css/images/ui-bg_flat_75_ffffff_40x100.png
+DEBUG ErrorController 15 Jun 23:36:25 query string: null
+DEBUG ShopController 15 Jun 23:36:25 after action: largerImage params: [id:2695, otherImageName:7588-000, action:largerImage, controller:shop]
+DEBUG ErrorController 15 Jun 23:36:26 404: /css/images/ui-bg_glass_75_e6e6e6_1x400.png
+DEBUG ErrorController 15 Jun 23:36:26 query string: null
+DEBUG HomePageController 15 Jun 23:36:26 action: home params: [action:home, controller:homePage] flash: [message:The page you requested was not found]
+DEBUG HomePageController 15 Jun 23:36:26 action: home params: [action:home, controller:homePage] flash: [:]
+DEBUG HomePageController 15 Jun 23:36:26 action: home params: [action:home, controller:homePage] flash: [:]
+DEBUG HomePageController 15 Jun 23:36:27 action: home params: [action:home, controller:homePage] flash: [:]
+DEBUG ShopController 15 Jun 23:36:31 action: detail params: [division:bikes, mode:canadaindex.htm%3Fmode%3Dcanadaindex.htm, id:3905, action:detail, controller:shop] flash: [:]
+DEBUG ShopController 15 Jun 23:36:31 after action: detail params: [division:bikes, mode:canadaindex.htm%3Fmode%3Dcanadaindex.htm, id:3905, action:detail, controller:shop]
+DEBUG ShopController 15 Jun 23:36:40 action: cancel params: [division:kettler usa, action:cancel, controller:shop] flash: [:]
+DEBUG ShopController 15 Jun 23:36:40 action: products params: [division:kettler usa, action:cancel, controller:shop] flash: [:]
+WARN  ShopController 15 Jun 23:36:40 forward to home due to invalid params.division: kettler usa
+DEBUG ShopController 15 Jun 23:36:40 after action: products params: [division:kettler usa, action:cancel, controller:shop, max:4, rowSize:4, offset:0]
+DEBUG ShopController 15 Jun 23:36:40 after action: products params: [division:kettler usa, action:cancel, controller:shop]
+DEBUG HomePageController 15 Jun 23:36:40 action: home params: [action:home, controller:homePage] flash: [:]
+DEBUG ShopController 15 Jun 23:36:43 action: products params: [division:table tennis, action:products, controller:shop] flash: [:]
+DEBUG ShopController 15 Jun 23:36:43 after action: products params: [division:table tennis, action:products, controller:shop, max:3, rowSize:3, offset:0]
+DEBUG ShopController 15 Jun 23:36:44 action: detail params: [id:3983, category:category, division:table tennis, action:detail, controller:shop] flash: [:]
+DEBUG ShopController 15 Jun 23:36:44 after action: detail params: [id:3983, category:category, division:table tennis, action:detail, controller:shop]
+DEBUG ShopController 15 Jun 23:36:45 action: category params: [category:accessories, division:table tennis, action:category, controller:shop] flash: [:]
+DEBUG ShopController 15 Jun 23:36:46 after action: category params: [category:accessories, division:table tennis, action:category, controller:shop, offset:0, max:4, rowSize:4, sort:articleGroupClass, order:ASC]
+DEBUG ShopController 15 Jun 23:36:49 action: category params: [category:accessories, max:4, sort:articleGroupClass, division:table tennis, order:ASC, offset:12, rowSize:4, action:category, controller:shop] flash: [:]
+DEBUG ShopController 15 Jun 23:36:49 after action: category params: [category:accessories, max:4, sort:articleGroupClass, division:table tennis, order:ASC, offset:12, rowSize:4, action:category, controller:shop]
+DEBUG ShopController 15 Jun 23:36:51 action: buy params: [division:table tennis, ajax:true, quantity:1, id:2678, action:buy, controller:shop] flash: [:]
+DEBUG ShopController 15 Jun 23:36:51 after action: buy params: [division:table tennis, ajax:true, quantity:1, id:2678, action:buy, controller:shop]
+DEBUG ErrorController 15 Jun 23:36:53 404: /css/images/ui-bg_glass_75_dadada_1x400.png
+DEBUG ErrorController 15 Jun 23:36:53 query string: null
+DEBUG ShopController 15 Jun 23:36:53 action: detail params: [id:2695, category:category, division:table tennis, action:detail, controller:shop] flash: [:]
+DEBUG ShopController 15 Jun 23:36:53 after action: detail params: [id:2695, category:category, division:table tennis, action:detail, controller:shop]
+DEBUG HomePageController 15 Jun 23:36:54 action: home params: [action:home, controller:homePage] flash: [message:The page you requested was not found]
+DEBUG ShopController 15 Jun 23:36:56 action: detail params: [mode:canadac275.htm%3Fmode%3Dcanadac275.htm, id:2923, category:pedal-vehicles, division:toys, action:detail, controller:shop] flash: [:]
+DEBUG ShopController 15 Jun 23:36:56 after action: detail params: [mode:canadac275.htm%3Fmode%3Dcanadac275.htm, id:2923, category:pedal-vehicles, division:toys, action:detail, controller:shop]
+DEBUG ShopController 15 Jun 23:36:57 action: checkoutPrompt params: [division:table tennis, action:checkoutPrompt, controller:shop] flash: [message:Increase your order to $40 to get free shipping to the continental US]
+DEBUG ShopController 15 Jun 23:36:57 after action: checkoutPrompt params: [division:table tennis]
+DEBUG CheckoutController 15 Jun 23:36:57 action: index params: [division:table tennis, action:index, controller:checkout] flash: [:]
+DEBUG ShopController 15 Jun 23:37:00 action: category params: [category:outdoor-play, division:toys, action:category, controller:shop] flash: [:]
+DEBUG ShopController 15 Jun 23:37:00 after action: category params: [category:outdoor play, division:toys, action:category, controller:shop, offset:0, max:4, rowSize:4, sort:articleGroupClass, order:ASC]
+DEBUG CheckoutController 15 Jun 23:37:02 checkoutFlow begin action params: [type:2, action:checkout, controller:checkout]
+DEBUG ShopController 15 Jun 23:37:05 action: collection params: [category:poly, division:, collection:Milano, mode:canada?mode=canada, action:collection, controller:shop] flash: [:]
+DEBUG ShopController 15 Jun 23:37:05 after action: collection params: [category:poly, division:patio, collection:Milano, mode:canada?mode=canada, action:collection, controller:shop, max:3, rowSize:3]
+DEBUG ShopController 15 Jun 23:37:29 action: detail params: [division:bikes, mode:, id:4125, action:detail, controller:shop] flash: [:]
+DEBUG ShopController 15 Jun 23:37:29 after action: detail params: [division:bikes, mode:, id:4125, action:detail, controller:shop]
+DEBUG PreAuthorizationService 15 Jun 23:37:41 ccPreAuth:  webOrderAmount: 7.66 webOrderNumber: 0 address1: 11203 Pinewood Court zip10: 23238 creditCard: **** **** **** **** expireMonth: 9 expireYear: 2011 securityCode: 437
+DEBUG LocateController 15 Jun 23:37:45 action: bndsChanged params: [cLat:41.10119553696969, cLng:-73.60891395507814, division:patio, neLng:-73.05959754882815, swLat:40.86794328095418, neLat:41.33362232421202, itemId:2111, swLng:-74.15823036132815, action:bndsChanged, controller:locate] flash: [:] PRODUCTION
+DEBUG LocateController 15 Jun 23:37:45 search radius: 20.0 miles
+DEBUG LocateController 15 Jun 23:37:45 has division: patio, class: java.lang.String
+DEBUG PreAuthorizationService 15 Jun 23:37:45 info sent back = <com.kettler.service.retail.CreditCardReturn@485220c0 valid=true codeOrRouting=5279      >
+DEBUG PreAuthorizationService 15 Jun 23:37:45 ccRtn = com.kettler.service.retail.CreditCardReturn@485220c0
+DEBUG LocateController 15 Jun 23:37:45 found 82 dealers for division: patio
+DEBUG RpgService 15 Jun 23:37:45 getNextOrderNo(01)
+DEBUG RpgService 15 Jun 23:37:46 384230 getNextOrderNo(01)
+DEBUG CheckoutController 15 Jun 23:37:46 checkoutFlow begin action params: [type:2, action:checkout, controller:checkout]
+DEBUG CheckoutController 15 Jun 23:37:47 flow.addrCmd:  
+		Don Denoncourt
+		11203 Pinewood Court
+		null
+		Richmond VA 23238
+        dondenoncourt@gmail.com 8047541527
+		
+ERROR ErrorController 15 Jun 23:37:48 Agent info: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+DEBUG LocateController 15 Jun 23:37:49 action: bndsChanged params: [cLat:40.81599743979064, cLng:-73.74074989257814, division:patio, neLng:-73.19143348632815, swLat:40.581737570454614, neLat:41.049433006645614, itemId:2111, swLng:-74.29006629882815, action:bndsChanged, controller:locate] flash: [:] PRODUCTION
+DEBUG LocateController 15 Jun 23:37:49 search radius: 20.0 miles
+DEBUG LocateController 15 Jun 23:37:49 has division: patio, class: java.lang.String
+DEBUG LocateController 15 Jun 23:37:49 found 82 dealers for division: patio
+DEBUG LocateController 15 Jun 23:37:50 action: bndsChanged params: [cLat:41.03493219460456, cLng:-73.42489295898439, division:patio, neLng:-72.8755765527344, swLat:40.80144530918823, neLat:41.26759387493408, itemId:2111, swLng:-73.9742093652344, action:bndsChanged, controller:locate] flash: [:] PRODUCTION
+DEBUG LocateController 15 Jun 23:37:50 search radius: 20.0 miles
+DEBUG LocateController 15 Jun 23:37:50 has division: patio, class: java.lang.String
+DEBUG LocateController 15 Jun 23:37:50 found 82 dealers for division: patio
+DEBUG LocateController 15 Jun 23:37:53 action: bndsChanged params: [cLat:41.19721323001739, cLng:-73.42489295898439, division:patio, neLng:-72.8755765527344, swLat:40.96430151590399, neLat:41.4292991011041, itemId:2111, swLng:-73.9742093652344, action:bndsChanged, controller:locate] flash: [:] PRODUCTION
+DEBUG LocateController 15 Jun 23:37:53 search radius: 20.0 miles
+DEBUG LocateController 15 Jun 23:37:53 has division: patio, class: java.lang.String
+DEBUG LocateController 15 Jun 23:37:53 found 82 dealers for division: patio
+DEBUG LocateController 15 Jun 23:37:56 action: bndsChanged params: [cLat:40.9248838645631, cLng:-73.42901283203126, division:patio, neLng:-72.87969642578128, swLat:40.69100800693804, neLat:41.15793496477832, itemId:2111, swLng:-73.97832923828128, action:bndsChanged, controller:locate] flash: [:] PRODUCTION
+DEBUG LocateController 15 Jun 23:37:56 search radius: 20.0 miles
+DEBUG LocateController 15 Jun 23:37:56 has division: patio, class: java.lang.String
+DEBUG ShopController 15 Jun 23:37:56 action: category params: [category:carriers.pdf, division:toys, action:category, controller:shop] flash: [:]
+WARN  ShopController 15 Jun 23:37:56 Division: toys category: carriers.pdf not found. params:[category:carriers.pdf, division:toys, action:category, controller:shop, offset:0, max:4, rowSize:4, sort:articleGroupClass, order:ASC]
+DEBUG ShopController 15 Jun 23:37:56 after action: category params: [category:carriers.pdf, division:toys, action:category, controller:shop, offset:0, max:4, rowSize:4, sort:articleGroupClass, order:ASC]
+DEBUG LocateController 15 Jun 23:37:56 found 82 dealers for division: patio
+DEBUG HomePageController 15 Jun 23:37:56 action: home params: [action:home, controller:homePage] flash: [message:Division: toys category: carriers.pdf not found.]
+DEBUG LocateController 15 Jun 23:37:57 action: bndsChanged params: [cLat:40.6701791606026, cLng:-73.10491615234376, division:patio, neLng:-72.55559974609378, swLat:40.4354063637477, neLat:40.90412828285743, itemId:2111, swLng:-73.65423255859378, action:bndsChanged, controller:locate] flash: [:] PRODUCTION
+DEBUG LocateController 15 Jun 23:37:57 search radius: 20.0 miles
+DEBUG LocateController 15 Jun 23:37:57 has division: patio, class: java.lang.String

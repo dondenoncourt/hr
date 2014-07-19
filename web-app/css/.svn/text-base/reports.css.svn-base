@@ -1,0 +1,81 @@
+/*-------------------------
+CSS to be used with HR
+Application report pages
+
+SSB - 11/17/2011
+-------------------------*/
+h1 
+{
+    text-align: left;
+    font-size: 18px;
+    color: #496278;
+    font-weight: bold;
+    font-family: Cambria;
+    border: none;
+    margin: 10px 0 10px 0;
+}
+table.report {
+	width: 1007px;
+}
+table.report th {    
+    font-family: Cambria;
+    font-size: 14px;
+    color: #496278;
+}
+table.report th a:link, table.report th a:visited, table.report th a:hover {
+    color: #496278;
+    font-size: 14px;
+    text-decoration: underline;  
+}
+
+.even {
+	background-color: #f1f0f1;
+}
+table.report td 
+{
+    font-family: Cambria;
+    font-size: 12px;
+    /*color: #545454;*/
+}
+table.report td a {
+	color: #ff6200;
+	text-decoration: none;
+}
+table.report td.footer {
+	height: 21px;
+    background-image: url(../images/reports/report_header_bg.png);
+    background-repeat: repeat-x;
+    border-bottom: 2px solid #D7E2EC;
+    border-left: 1px solid #D7E2EC;
+    border-right: 1px solid #D7E2EC;
+    margin: 0;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+div.paginateButtons {
+    width: 1005px;
+}
+dl.rtl {
+    overflow: hidden;
+    width: 100%;
+}
+dl.rtl dt {
+    display: inline;
+    width: 10%;
+    float: left;
+    text-align: left;
+    font-weight: bold;
+    padding: 3px 3px;
+}
+dl.rtl dd {
+    display: inline;
+    float: left;
+    width: 89%;
+}
+tr.totals {
+	background-color: #ccc;
+}
+tr.totals td {
+	color: #000000;
+	font-weight: bold;
+}

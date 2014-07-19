@@ -1,0 +1,6 @@
+h1 {
+	font-size: 25px !important;
+}
+.body {
+	top: 0 !important;
+}

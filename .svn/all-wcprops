@@ -1,0 +1,39 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 18
+/svn/iXp/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/iXp/!svn/ver/23546/Daffron%20-%20HR/trunk
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/iXp/!svn/ver/21834/Daffron%20-%20HR/trunk/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/iXp/!svn/ver/21395/Daffron%20-%20HR/trunk/.project
+END
+hr.sql
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/iXp/!svn/ver/22905/Daffron%20-%20HR/trunk/hr.sql
+END
+mysqldump.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/iXp/!svn/ver/22905/Daffron%20-%20HR/trunk/mysqldump.sql
+END
+application.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iXp/!svn/ver/22901/Daffron%20-%20HR/trunk/application.properties
+END

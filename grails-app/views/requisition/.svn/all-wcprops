@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/iXp/!svn/ver/22899/Daffron%20-%20HR/trunk/grails-app/views/requisition
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/iXp/!svn/ver/23662/Daffron%20-%20HR/trunk/grails-app/views/requisition/edit.gsp
+END
+_hoverMenu.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/iXp/!svn/ver/21834/Daffron%20-%20HR/trunk/grails-app/views/requisition/_hoverMenu.gsp
+END
+pickInterviewTeam.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/iXp/!svn/ver/22326/Daffron%20-%20HR/trunk/grails-app/views/requisition/pickInterviewTeam.gsp
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/iXp/!svn/ver/22899/Daffron%20-%20HR/trunk/grails-app/views/requisition/list.gsp
+END
+openReqs.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/iXp/!svn/ver/22127/Daffron%20-%20HR/trunk/grails-app/views/requisition/openReqs.gsp
+END
+_statusHelp.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/iXp/!svn/ver/22157/Daffron%20-%20HR/trunk/grails-app/views/requisition/_statusHelp.gsp
+END
+internalPosting.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/iXp/!svn/ver/22105/Daffron%20-%20HR/trunk/grails-app/views/requisition/internalPosting.gsp
+END
+personnelAction.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/iXp/!svn/ver/22612/Daffron%20-%20HR/trunk/grails-app/views/requisition/personnelAction.gsp
+END
+_paf.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/iXp/!svn/ver/22609/Daffron%20-%20HR/trunk/grails-app/views/requisition/_paf.gsp
+END
+externalPosting.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/iXp/!svn/ver/22105/Daffron%20-%20HR/trunk/grails-app/views/requisition/externalPosting.gsp
+END

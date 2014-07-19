@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/iXp/!svn/ver/22862/Daffron%20-%20HR/trunk/grails-app/controllers/daffron/fms/hr/recruiting
+END
+RequisitionController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/iXp/!svn/ver/23655/Daffron%20-%20HR/trunk/grails-app/controllers/daffron/fms/hr/recruiting/RequisitionController.groovy
+END
+ApproveController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/iXp/!svn/ver/23546/Daffron%20-%20HR/trunk/grails-app/controllers/daffron/fms/hr/recruiting/ApproveController.groovy
+END
+YesNoController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/iXp/!svn/ver/19629/Daffron%20-%20HR/trunk/grails-app/controllers/daffron/fms/hr/recruiting/YesNoController.groovy
+END
+JobDescriptionController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/iXp/!svn/ver/22862/Daffron%20-%20HR/trunk/grails-app/controllers/daffron/fms/hr/recruiting/JobDescriptionController.groovy
+END
+TechNeedController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/iXp/!svn/ver/19698/Daffron%20-%20HR/trunk/grails-app/controllers/daffron/fms/hr/recruiting/TechNeedController.groovy
+END
+TestController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/iXp/!svn/ver/19746/Daffron%20-%20HR/trunk/grails-app/controllers/daffron/fms/hr/recruiting/TestController.groovy
+END
+BehaviorController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/iXp/!svn/ver/19761/Daffron%20-%20HR/trunk/grails-app/controllers/daffron/fms/hr/recruiting/BehaviorController.groovy
+END
+CompensationTeamController.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/iXp/!svn/ver/23655/Daffron%20-%20HR/trunk/grails-app/controllers/daffron/fms/hr/recruiting/CompensationTeamController.groovy
+END

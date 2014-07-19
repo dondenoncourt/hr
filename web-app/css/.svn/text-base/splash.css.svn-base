@@ -1,0 +1,88 @@
+/*-------------------------
+CSS to be used with login 
+page and the splash page 
+that is displayed after 
+user login
+
+SSB - 11/17/2011
+-------------------------*/
+
+/*--------------- Login ---------------*/
+h1 {
+    margin-left: 15px;
+}
+#Login {
+	width: 250px;
+	border: 1px solid #D7E2EC;
+    background-color: #ffffff;
+    /*margin-left: 15px;*/
+}
+#Login td {
+	vertical-align: middle;
+	font-size: 1.2em;
+	padding-left: 3px;
+}
+#Login td.buttons {
+	
+}
+
+/*--------------- Splash --------------*/
+.content {
+	width: 1007px;
+	margin: 15px 0;
+}
+#daffron {
+	width: 735px;
+	float: left;
+	margin: 0;
+	text-align: left;
+}
+#feedPanel { 
+    width: 250px;
+    padding-left: 5px;
+    border: 0px;
+    border-collapse: collapse;
+    margin-bottom: 2px;
+    vertical-align: text-bottom;
+    float: right;
+}
+#feedPanel h2 {
+	font-size: 1.2em;
+	font-weight: bold;
+	color: #004e8f;
+	padding: 5px 0;
+}
+#solutionDetail1 p,
+#solutionDetail2 p,
+#solutionDetail3 p {
+    min-height: 75px;
+}
+#solutionDetail1 h3,
+#solutionDetail2 h3
+#solutionDetail3 h3 {
+    font-size: 1em;
+    color: #000;
+}
+.feedList ul.feed {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.feedList li a {
+	display: block;
+    height: 18px;
+    padding: 3px 0;
+    color: #000;
+    text-decoration: none;
+}
+.feedList li a:hover {
+    color: #004e8f;
+    background-color: #d2dff0;
+}
+
+.standOUT
+{
+	font-weight: bold;
+	color: #666666;
+	font-size: 1.1em;
+}

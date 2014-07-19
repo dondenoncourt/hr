@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+    <title>Internal Postings</title>
+    <link>http://localhost:8080/hr/feeds/rss.xml</link>
+    <description>Daffron iXp Products</description>
+    <pubDate>Mon, 27 Feb 2012 10:06:33 CST</pubDate>
+	     <item>
+	         <title>Consumer Information System</title>
+	         <link>http://www.daffron.com/solution/cis.aspx</link>
+	         <description>A fully configurable system to meet your needs today and tomorrow.  System features 
+	           include: Consumer Accounting System; Multi-service - electric, water, gas; Non-metered billing 
+	           including outside of service territory ...</description>
+	     </item>
+	     <item>
+             <title>eBusiness</title>
+             <link>http://www.daffron.com/solution/ebusiness.aspx</link>
+             <description>Daffron offers a fully automated billing and payment service, providing an end-to-end 
+                solution from the customer all the way to depositing funds into a utility’s bank account. Through 
+                collaboration with ...</description>
+         </item>
+         <item>
+             <title>Financial Management System</title>
+             <link>http://www.daffron.com/solution/fms.aspx</link>
+             <description>The Daffron Financial Management applications integrate with all other software 
+                solutions across the utility’s business. The goal is to automate your enterprise and streamline 
+                your business processes ...</description>
+         </item>
+         <item>
+             <title>Materials Management System</title>
+             <link>http://www.daffron.com/solution/mms.aspx</link>
+             <description>Daffron Materials Management Software is easy to use yet comprehensive business 
+                management software that provides users with the tools needed to make educated decisions.  
+                The software manages all aspects ...</description>
+         </item>
+         <item>
+             <title>Staking</title>
+             <link>http://www.daffron.com/solution/staking.aspx</link>
+             <description>Daffron developed StakingiXp to drive work order automation, creating front-end 
+                digital data sources for CIS, GIS, and other back-end systems. Stakers, using tablet PC’s 
+                or laptops, perform design work ...</description>
+         </item>
+         <item>
+             <title>Geograpical Information System</title>
+             <link>http://www.daffron.com/solution/gis.aspx</link>
+             <description>Electric and gas utilities have long recognized the importance of accurate 
+                facility maps and records. Maps have been used in utilities for many years. Workers 
+                need them to find ...</description>
+         </item>
+         <item>
+             <title>Incident (Outage) Management</title>
+             <link>http://www.daffron.com/solution/ims.aspx</link>
+             <description>When it comes to interruption in service, most utilities agree that the 
+                two most important priorities are finding and fixing the problem as quickly as possible 
+                to restore service and the flow ...</description>
+         </item>
+         <item>
+             <title>Mobile Field Force</title>
+             <link>http://www.daffron.com/solution/mobilefieldforce.aspx</link>
+             <description>As part of our iXp enterprise solution strategy for utilities, Daffron 
+                & Associates, Inc. has added an exciting Vehicle Location and Mobile Field Force 
+                Solutions partner ...</description>
+         </item>
+         <item>
+             <title>Toolbox</title>
+             <link>http://www.daffron.com/solution/toolbox.aspx</link>
+             <description>Today, utility organizations must meet the dual objectives of 
+                network reliability and proactive customer service. This challenge is impossible 
+                to meet without successfully integrating ...</description>
+         </item>
+    </channel>
+</rss>

@@ -1,0 +1,12 @@
+K 7
+classes
+V 7
+*.class
+K 10
+svn:ignore
+V 35
+scrap.groovy
+daffron_hr.log*
+*.war
+
+END

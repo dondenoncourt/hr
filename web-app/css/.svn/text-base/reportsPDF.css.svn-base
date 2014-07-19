@@ -1,0 +1,128 @@
+/*--------------- PDF Settings ---------------*/
+.line{border-bottom: 1px solid #f1f0f1}
+
+/**
+ * Specific Elements
+ */
+
+#page-header {
+   display: inline;
+}
+#page-footer{
+   text-align: right;
+}
+
+/**
+ * Flying Saucer custom stuff
+ *
+ * see https://xhtmlrenderer.dev.java.net/servlets/ReadMsg?listName=dev&msgNo=3707
+ */
+ 
+@page {
+  size: landscape; /*letter landscape*/
+  background: white;
+  
+  @top-center {
+    content: element(current);
+  }
+  
+  @bottom-right {
+    content: element(footer);
+  }
+}
+
+.page-start { -fs-page-sequence: start; page-break-before: avoid;}
+table {-fs-table-paginate: paginate;page-break-inside: avoid;}
+/* forces a page break */
+.break {page-break-after:always}
+
+span.page:before { content: counter(page); }
+span.pagecount:before { content: counter(pages); }
+
+/*--------------- Header ---------------*/
+div.threeCol {
+	position: running(current);
+	margin: 10px 0 0 10px;
+	width: 100%;
+}
+div.colOne {
+	width: 20%;
+	text-align: left;
+	float: left;
+}
+div.colTwo {
+	width: 58%;
+	text-align: center;
+	float: left;
+}
+div.colThree {
+	width: 20%;
+	text-align: right;
+	float: right;
+	margin-right: 10px;
+}
+/*--------------- Tables ---------------*/
+table.report
+{
+    width: 945px;
+    border-collapse: collapse; 
+    background-color: #ffffff;
+    padding: 0;
+    margin: 0;
+}
+h1 
+{
+    text-align: left;
+    font-size: 14px;
+    color: #000000;
+    font-weight: bold;
+    font-family: Arial;
+    border: none;
+    margin: 10px 0;
+}
+table.report th
+{
+    height: 18px;
+    background-image: none;
+	background-color: #D7E2EC;
+    font-family: Arial;
+    font-size: 14px;
+    color: #496278;
+    padding: 0;
+    margin: 0;
+    border: none;
+}
+table.report td.right, table.report th.right {
+	text-align: right;
+	padding-right: 3px;
+}
+table.report th a:link, table.report th a:visited, table.report th a:hover {
+    color: #496278;
+    display: block;
+    font-size: 14px;
+    text-decoration: none;
+    width: 100%;   
+}
+table.report td.right, table.report th.right {
+	text-align: right;
+	padding-right: 3px;
+}
+table.report td.center, table.report th.center {
+	text-align: center;
+}
+table.report td.left, table.report th.left {
+	text-align: left;
+	padding-left: 3px;
+}
+table.report td 
+{
+    border: none;
+    padding: 3px 2px 3px 5px;
+    font-family: Arial;
+    font-size: 12px;
+    color: #545454;
+}
+.even
+{	
+	background-color: #f1f0f1;
+}
